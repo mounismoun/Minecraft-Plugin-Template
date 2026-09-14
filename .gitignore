@@ -1,0 +1,13 @@
+.gradle/
+.kotlin/
+build/
+.idea/
+*.iml
+.DS_Store
+
+# Local server: worlds, logs, plugins, settings, libraries, and EULA.
+/run/
+# JVM crash reports and heap dumps.
+hs_err_pid*.log
+replay_pid*.log
+*.hprof
